@@ -15,6 +15,9 @@ GPS(Game Party Service)
    그라운드룰을 지정하고 데일리 스크럼 진행
 7. 최종 발표
 
+## DB
+![db-gps](https://github.com/whereiswilly/GamePartyService/assets/145098356/5b1270a0-dfee-4938-96e7-e39f5044968c)
+
 ## 기능 FEATURES 목록
 - 실시간 파티 구인 게시물 업로드 확인  
 댓글로 참여 의사를 표현  
